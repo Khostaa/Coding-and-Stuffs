@@ -64,6 +64,6 @@ int main()
                 printf("Bye Bye!\n");
                 break;
         }
-    } while (Ochoice != 3);
+    } while (choice != 3);
    return 0; 
 }
