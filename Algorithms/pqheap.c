@@ -1,3 +1,4 @@
+//Actual ORG
 #include <stdio.h>
 #define size 10
 int arr[size];
